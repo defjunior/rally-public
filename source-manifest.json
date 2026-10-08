@@ -1,0 +1,62 @@
+{
+  "verified_date": "2026-10-07",
+  "comparison_note": "Live original and committed destination compared; outer blank lines ignored for modified flag. No runtime validation. Original history not imported.",
+  "files": [
+    {
+      "path": "src/ServerScriptService/Services/EventService.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "388c32d57e1c79a1c96e04d2e5e2011aa05e0e0d520121a5075be2fe724301cb",
+      "output_sha256": "388c32d57e1c79a1c96e04d2e5e2011aa05e0e0d520121a5075be2fe724301cb",
+      "modified": false,
+      "lines": 124
+    },
+    {
+      "path": "src/ServerScriptService/Services/Rally/BallSimulationService.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "aa8afc008a2c92e3cab53d15493396cb7aa48b33a91b0ae4e78e72f94d1c9873",
+      "output_sha256": "07b1949c03ebbb690c4face00cb929209acccbec6a5188da28c197fe68d6c7b5",
+      "modified": true,
+      "lines": 815
+    },
+    {
+      "path": "src/ServerScriptService/Services/Rally/BallReplicationLod.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "77623e540794834c4cd422722a7841990ebf65c5dbc5c9615f3408af64402fab",
+      "output_sha256": "77623e540794834c4cd422722a7841990ebf65c5dbc5c9615f3408af64402fab",
+      "modified": false,
+      "lines": 27
+    },
+    {
+      "path": "src/ServerScriptService/Services/Rally/BallContactResolver.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "ce0afb57c48d0bd5272d5b4b7fb8f68af3e4babae83cf98502b49b8879c4721d",
+      "output_sha256": "ce0afb57c48d0bd5272d5b4b7fb8f68af3e4babae83cf98502b49b8879c4721d",
+      "modified": false,
+      "lines": 206
+    },
+    {
+      "path": "src/ReplicatedStorage/Modules/Ball.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "b1b34930a47874bfc1311e11c02d65ab76fab72753406be4209261c79f6ccde3",
+      "output_sha256": "242962b7c9775ebd8b2a286f9b028f3b67e2c6464a759d7c6389b4261f8373e0",
+      "modified": false,
+      "lines": 101
+    },
+    {
+      "path": "src/ReplicatedStorage/Modules/Net/RemoteManifest.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "d4d43bfac1e08f5925cbf4b8bdecaada3f27bc3cf4cc05398e4b8c9d6b2a78c4",
+      "output_sha256": "07f53c5fb5e3c4c7d69ee244175926cbce2857ffd6c61e821c5ab855a8ebd75a",
+      "modified": true,
+      "lines": 58
+    },
+    {
+      "path": "src/ReplicatedStorage/Modules/Net/RemoteBridge.lua",
+      "source_repo": "defjunior/Rally",
+      "source_sha256": "023c7669ab07b6461ed5960563062b12ae74a234259c6b8e5ef1dc360744addf",
+      "output_sha256": "023c7669ab07b6461ed5960563062b12ae74a234259c6b8e5ef1dc360744addf",
+      "modified": false,
+      "lines": 57
+    }
+  ]
+}
